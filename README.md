@@ -130,14 +130,6 @@ zenly-clone/
 | GET | /chat/:friendId | Lấy tin nhắn |
 | POST | /sos | Gửi SOS |
 
-## 📱 Screenshots
 
-*Thêm screenshots ứng dụng tại đây*
+## 👥 Tác giả: gimmethejeremie
 
-## 👥 Tác giả
-
-- [Your Name](https://github.com/YOUR_USERNAME)
-
-## 📄 License
-
-MIT License - Xem file [LICENSE](LICENSE) để biết thêm chi tiết.
