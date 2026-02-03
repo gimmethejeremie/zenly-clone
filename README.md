@@ -2,18 +2,18 @@
 
 Ứng dụng chia sẻ vị trí thời gian thực với bạn bè, được xây dựng bằng React.js và Node.js.
 
-## 🌟 Tính năng
+## Tính năng
 
-- 📍 **Chia sẻ vị trí realtime** - Xem vị trí bạn bè trên bản đồ
-- 🗺️ **Chỉ đường đa phương tiện** - Ô tô, xe máy, xe đạp, đi bộ
-- 💬 **Chat realtime** - Nhắn tin với bạn bè
-- 🆘 **SOS khẩn cấp** - Gửi cảnh báo đến tất cả bạn bè
-- 👻 **Ghost Mode** - Ẩn vị trí khi cần riêng tư
-- 👨‍👩‍👧 **Parental Mode** - Phụ huynh theo dõi vị trí con
-- 🔔 **Thông báo đẩy** - Nhận thông báo realtime
-- 🔐 **Bảo mật** - JWT authentication, Google OAuth
+- **Chia sẻ vị trí realtime** - Xem vị trí bạn bè trên bản đồ
+- **Chỉ đường đa phương tiện** - Ô tô, xe máy, xe đạp, đi bộ
+- **Chat realtime** - Nhắn tin với bạn bè
+- **SOS khẩn cấp** - Gửi cảnh báo đến tất cả bạn bè
+- **Ghost Mode** - Ẩn vị trí khi cần riêng tư
+- **Parental Mode** - Phụ huynh theo dõi vị trí con
+- **Thông báo đẩy** - Nhận thông báo realtime
+- **Bảo mật** - JWT authentication, Google OAuth
 
-## 🛠️ Công nghệ
+## Công nghệ
 
 ### Frontend
 - React.js 18
@@ -28,7 +28,7 @@
 - JWT + Bcrypt
 - Passport (Google OAuth)
 
-## 📦 Cài đặt
+## Cài đặt
 
 ### Yêu cầu
 - Node.js 18+
@@ -94,7 +94,7 @@ npm start
 
 Truy cập: http://localhost:3000
 
-## 📁 Cấu trúc dự án
+## Cấu trúc dự án
 
 ```
 zenly-clone/
@@ -117,7 +117,7 @@ zenly-clone/
 └── README.md
 ```
 
-## 🔑 API Endpoints
+## API Endpoints
 
 | Method | Endpoint | Mô tả |
 |--------|----------|-------|
@@ -130,6 +130,4 @@ zenly-clone/
 | GET | /chat/:friendId | Lấy tin nhắn |
 | POST | /sos | Gửi SOS |
 
-
-## 👥 Tác giả: gimmethejeremie
 
